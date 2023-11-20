@@ -5,7 +5,7 @@
 .resp-tabs-list li {
 	font-family: 'ambleregular';
 	font-size:1em;
-	color:#333;;
+	color:#3323;;
 	text-transform: uppercase;
 	display: inline-block;
 	padding: 13px 15px;
@@ -13,9 +13,9 @@
 	list-style: none;
 	cursor: pointer;
 	float: left;
-	background: #EDEDED;
-    margin-right: 5px;
-    border-radius: 2px 2px 0 0;
+	background: #EDE2DED;
+    margin-right: 52px;
+    border-radius: 22px 2px 0 0;
 }
 .resp-tabs-list li:hover {
 	color: #E4292F;
